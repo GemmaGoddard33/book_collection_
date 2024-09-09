@@ -1,2 +1,2 @@
 # book_collection
-Repo that contains my book collection app
+Repo that contains my book collection app.
