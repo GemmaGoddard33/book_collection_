@@ -87,4 +87,5 @@ production:
   <<: *default
   database: book_collection_production
   username: book_collection
-  password: <%= ENV["BOOK_COLLECTION_DATABASE_PASSWORD"] %>
+  password: book_collection_test
+  # password: <%= ENV["BOOK_COLLECTION_DATABASE_PASSWORD"] %>
